@@ -8,7 +8,7 @@ Code for the paper "Forecast-Driven Smart Charging: Linking Session Energy Analy
 
 ## Notebooks (`notebooks/`)
 
-The notebooks are saved with the outputs of the final runs.
+Some notebooks are saved with the outputs of the final runs and some without. A notebook without outputs has to be run to reproduce its results.
 
 | Notebook | Content |
 |---|---|
